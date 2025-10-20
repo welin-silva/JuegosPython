@@ -1,6 +1,6 @@
 from faker import Faker
 
-#instalamos faker y lo descargamos
+#instalamos faker y lo desc
 
 # Para instalar la librería faker desde la terminal, ejecuta:
 # pip install faker
